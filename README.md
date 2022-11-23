@@ -1,11 +1,10 @@
 <h1 align="center">Hello there, I'm Stanislav
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a junior FrontEnd developer</h3>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨‍💻 I'm a junior FrontEnd developer
+- 🌱 I’m currently learning: React
+- 🤔 What I want to learn next: How to create the backend part of a web app
+- 👀 I’m looking for interesting job
 
 <p>
 <h2>🔧 Tools I Like To Use<h2>
@@ -28,8 +27,3 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Readmaniac&layout=compact" />
 </a>
 </div>
-
-<!---
-Readmaniac/Readmaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
